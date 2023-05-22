@@ -1,0 +1,6 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.pdb

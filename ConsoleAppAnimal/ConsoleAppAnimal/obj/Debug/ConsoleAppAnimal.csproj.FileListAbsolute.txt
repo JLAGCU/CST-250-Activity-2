@@ -1,0 +1,8 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ConsoleAppAnimal\ConsoleAppAnimal\bin\Debug\ConsoleAppAnimal.exe.config
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ConsoleAppAnimal\ConsoleAppAnimal\bin\Debug\ConsoleAppAnimal.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ConsoleAppAnimal\ConsoleAppAnimal\bin\Debug\ConsoleAppAnimal.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ConsoleAppAnimal\ConsoleAppAnimal\obj\Debug\ConsoleAppAnimal.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ConsoleAppAnimal\ConsoleAppAnimal\obj\Debug\ConsoleAppAnimal.csproj.SuggestedBindingRedirects.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ConsoleAppAnimal\ConsoleAppAnimal\obj\Debug\ConsoleAppAnimal.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ConsoleAppAnimal\ConsoleAppAnimal\obj\Debug\ConsoleAppAnimal.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ConsoleAppAnimal\ConsoleAppAnimal\obj\Debug\ConsoleAppAnimal.pdb

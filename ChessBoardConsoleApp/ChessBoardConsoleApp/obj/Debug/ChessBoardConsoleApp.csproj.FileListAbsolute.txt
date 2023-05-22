@@ -1,0 +1,11 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe.config
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.dll
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CopyComplete
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.pdb

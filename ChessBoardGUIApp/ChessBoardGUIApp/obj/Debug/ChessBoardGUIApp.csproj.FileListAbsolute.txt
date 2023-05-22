@@ -1,0 +1,14 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.exe.config
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardModel.dll
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.Form1.resources
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.Properties.Resources.resources
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.GenerateResource.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.CopyComplete
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.pdb
