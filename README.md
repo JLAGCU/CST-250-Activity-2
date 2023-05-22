@@ -1,7 +1,4 @@
-# CST-250-Activity-2
- CST-250 Activity 2
-
-# Activity 2.1
+# CST-250-Activity-2.1
 
 During this activity, students will use a 2D array to model a chess board.
 
@@ -46,7 +43,7 @@ Windows Form running with Rook selected:
 ![alt text](https://github.com/JLAGCU/CST-250-Activity-2/blob/main/Images/Chess%20Windows%20Form%20Output%206.png?raw=true)
 
 
-# Activity 2.2
+# CST-250-Activity-2.2
 
 
 Console Application running:
